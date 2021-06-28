@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TripLibrary.UserMessages">
+    <Position X="7.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAoAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>UserMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TripLibrary.ResultsToUser">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>ResultsToUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TripLibrary.RequestData">
+    <Position X="4" Y="5.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ARAAAAAAAAAAAAAgQAAAAAAgAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RequestData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TripLibrary.AppSettings">
+    <Position X="7" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAACAAAIAAAAIABAAEAAAAAAAAAAA=</HashCode>
+      <FileName>AppSettings.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="averageSpeed" />
+      <Property Name="fuelTime" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TripLibrary.Models.TripModel">
+    <Position X="1.25" Y="1" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAABAABAECABwAIAEAEAAGAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\TripModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_averageSpeed" />
+      <Field Name="_fuelTime" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TripLibrary.ColorText">
+    <Position X="7.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAEBAAAAAAAAAACAAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>ColorText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TripLibrary.ConfigureConsoleWindow">
+    <Position X="4.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAg=</HashCode>
+      <FileName>ConfigureConsoleWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TripLibrary.DateTimeHelper">
+    <Position X="9.75" Y="4.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DateTimeHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="System.Int32">
+    <Position X="12.5" Y="1" Width="2.25" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
