@@ -14,6 +14,7 @@ namespace TripLibrary
 		{
 			Console.Clear();
 
+			// Pastel extension installed, but not fully implemented!
 			//***** Console.WriteLine("Hello".Pastel(Color.Red)); ***** Pastel Extension!!
 
 
